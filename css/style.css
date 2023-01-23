@@ -99,3 +99,9 @@ main p.desc {
     color: white;
     cursor: pointer;
 }
+
+@media all and (max-width: 500px) {
+    main {
+        margin: 20px;
+    }
+}
